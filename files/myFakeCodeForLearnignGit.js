@@ -3,6 +3,6 @@
 //make some functionality
 let toSay = "WHAAAT";
 sayWhat = function(){
-    console.log("WHAT THE "+toSay+" Today");
+    console.log("WHAT THE "+toSAy);
 }();
 
