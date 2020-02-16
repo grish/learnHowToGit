@@ -1,7 +1,7 @@
 //beginning the process
 
 //make some functionality
-sayWhat();
-function sayWhat(){
+let toSay = "WHAAAT"
+sayWhat = function(){
     console.log("WHAT");
-}
+}();
